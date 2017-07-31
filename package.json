@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "nodemon --ignore 'db.js' -r dotenv/config index.js"
   },
-  "author": "Dalibor Gogic <mail@daliborgogi.com>",
+  "author": "Dalibor Gogic <mail@daliborgogic.com>",
   "license": "MIT",
   "dependencies": {
     "contentful": "^4.5.0",
