@@ -10,7 +10,7 @@
   "dependencies": {
     "contentful": "^4.6.5",
     "dotenv": "^4.0.0",
-    "lodash.merge": "^4.6.1",
+    "lodash.merge": "^4.6.2",
     "lodash.remove": "^4.7.0",
     "write-json-file": "^2.3.0"
   },
